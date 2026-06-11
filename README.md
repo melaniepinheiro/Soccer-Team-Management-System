@@ -1,7 +1,9 @@
 # Soccer Team Management System
 
 Name: Melanie Pinheiro
+
 Course: COP3330C
+
 CRN: 23598
 
 ## Project Description
